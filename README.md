@@ -29,14 +29,14 @@ VibeSync can be enhanced using real-time music APIs.
 For example, with the Last.fm API, the system could track user listening history, analyze song moods, and generate personalized recommendations automatically, transforming it into a data-driven recommendation platform.
 
 🤝 Credits
-
-Manav (@ManavTrivedi-14
+Namra Kapadia – Project idea, system design, and complete interface development  
+Manav Trivedi (@ManavTrivedi-14
 ) – Mood of the Day
 
-Jeet (@Jeetraval3
+Jeet Raval (@Jeetraval3
 ) – Guess the Song
 
-Nisarg (@nisarg-137
+Nisarg Vadajwalla (@nisarg-137
 ) – Song Database
 
 📌 Status
