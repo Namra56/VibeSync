@@ -13,7 +13,7 @@ This project is a prototype, focused on logic, creativity, and user experience r
 
 🎲 Surprise Me
 
-🎵 Guess the Song
+🎵 Guess the Song- Uses local songs downloaded in folder.
 
 🛠️ Tech Stack
 
@@ -29,7 +29,9 @@ VibeSync can be enhanced using real-time music APIs.
 For example, with the Last.fm API, the system could track user listening history, analyze song moods, and generate personalized recommendations automatically, transforming it into a data-driven recommendation platform.
 
 🤝 Credits
+
 Namra Kapadia – Project idea, system design, and complete interface development  
+
 Manav Trivedi (@ManavTrivedi-14
 ) – Mood of the Day
 
